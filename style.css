@@ -1,0 +1,58 @@
+body {
+
+}
+
+.header-wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.body-wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.indent {
+  margin-left: 30px;
+}
+
+cite {
+  color: green;
+}
+
+.sub-title {
+  font-size: 1.3em;
+}
+
+.sub-title2 {
+
+}
+
+header {
+  margin-bottom: 25px;
+}
+
+a {
+  color: maroon;
+  font-size: 1.1em;
+}
+
+.listening-links {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  margin: 25px 0;
+}
+
+.inklings-logo {
+  max-width: 200px;
+}
+.inklings-address {
+  margin: 10px 0;
+}
+
+footer {
+  margin: 30px 0;
+}
